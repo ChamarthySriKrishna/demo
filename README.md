@@ -1,3 +1,3 @@
 # demo
- demo
-print(this is my first repository creation)
+Demo
+This is my first repository.
